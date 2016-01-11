@@ -13,13 +13,13 @@ import time
 #config = ConfigParser.ConfigParser()
 #config.read('.twitter')
 
-#consumer_key = config.get('apikey', '45opyWmnEdNNKqPJOQ3jJczXK')
-#consumer_secret = config.get('apikey', 'iFt2MDExEY2BuYKgWXObBk7CcRFOPijbv6iVaBTeFb8ZVx5R7d')
-#access_token = config.get('token', '2206438826-TTfR3KNPQdKdo7HvlftIKE9Mdwc1xJwRCsIw3S5')
-#ccess_token_secret = config.get('token', 'BAC8yk38M9ItUqH8boGsxi0z1OF7W1mBa2k5K8Ci7a30c')
+#consumer_key = config.get('apikey', '')
+#consumer_secret = config.get('apikey', '')
+#access_token = config.get('token', '')
+#ccess_token_secret = config.get('token', '')
 #stream_rule = config.get('app', 'rule')
-#account_screen_name = config.get('socialcomputingp2', 'chinpanz10').lower()
-#account_user_id = config.get('socialcomputingp2', '2206438826')
+#account_screen_name = config.get('socialcomputingp2', '').lower()
+#account_user_id = config.get('socialcomputingp2', '')
 
 
 
