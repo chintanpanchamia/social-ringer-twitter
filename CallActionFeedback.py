@@ -25,10 +25,10 @@ import time
 
 
 account_screen_name = 'chinpanz10'
-access_token = "2206438826-WhmCoFFcnCSRCBs5NahWh4Zp3RCkPgFmjsvlN4U"
-access_token_secret = "UFZ67WwOreS8bKVtIPZYZ570djzPVp1k1ddFcRVduCjBl"
-consumer_key = "hvPueLbHPaW8hS7nqjsNgxJEy"
-consumer_secret = "NFJkdCPup9O3YpOd4t4dkE8qBr4a2I2KK6ARJTmJl4e7oIyc8G"
+access_token = ""
+access_token_secret = ""
+consumer_key = ""
+consumer_secret = ""
 
 auth = OAuthHandler(consumer_key,consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
